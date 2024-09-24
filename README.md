@@ -20,7 +20,7 @@ Soy un estudiante apasionado de **Sistemas Microinform谩ticos y Redes (SMR)** 馃
 - **Redes**: Configuraci贸n de redes locales (LAN), subredes, NAT, DNS, DHCP.
 - **Seguridad**: Firewalls b谩sicos, filtrado de paquetes, protecci贸n de redes.
 - **Hardware**: Ensamblaje y mantenimiento de equipos.
-- **Virtualizaci贸n**: VirtualBox, VMware.
+- **Virtualizaci贸n**: VirtualBox.
 
 ---
 
