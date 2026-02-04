@@ -43,8 +43,8 @@ Soy un estudiante apasionado de **Sistemas Microinformáticos y Redes (SMR)** �
 
 ## 📬 Contacto
 
-- **Gmail**: [Tu Gmail](parrondo.collantes.de.teran.joel@iescamas.es)
-- **GitHub**: [Tu GitHub](https://github.com/JoelParrondo)
+- **Gmail**: parrondo.collantes.de.teran.joel@iescamas.es
+- **GitHub**: [Mi GitHub](https://github.com/JoelParrondo)
 
 ---
 
