@@ -6,7 +6,7 @@ Soy un estudiante apasionado de **Sistemas Microinformáticos y Redes (SMR)** �
 
 ## 🌟 Acerca de mí
 
-- 🎓 Estudiante de **SMR**, interesado en redes, sistemas operativos, ciberseguridad y mucho más.
+- 🎓 Estudiante de **DAW**, interesado en redes, sistemas operativos, ciberseguridad y mucho más.
 - 💻 Aprendiendo día a día sobre tecnologías como **Linux**, **Windows Server**, y **virtualización**.
 - 📡 Me encanta desarmar y armar PCs, montar redes y buscar formas de optimizar el rendimiento de los sistemas.
 - 🤖 Aficionado a la automatización y scripts que hagan la vida más fácil.
